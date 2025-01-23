@@ -1,36 +1,15 @@
-👋 Welcome to my GitHub!
-Hello! I'm Ahlam Ghasemiyan, an enthusiastic developer, tech enthusiast, and lifelong learner 🚀. This GitHub is where creativity meets coding and innovation comes to life.
+# 💫 About Me:
+🌟 About Me 💻 Developer: I specialize in Artificial Intelligence, Machine Learning, Deep Learning, and Data and Feature Analysis. 📚 Lifelong Learner: Always discovering the latest technologies and trends. 🌍 Open Source Advocate: I believe in the power of collaboration and community.<br><br>🔥 Skills and Technologies Programming Languages: Python, C++, Java Frameworks: Django, TensorFlow Tools and Platforms: Git, Docker, Kubernetes Frontend Development: HTML, CSS, JavaScript Interests: AI, Machine Learning, Deep Learning, Data and Feature Analysis<br><br>🚀 Current Projects<br><br>🌐 AI-based Drug Resistance Prediction in Cancer: Developing a machine learning model to predict drug resistance mutations in cancer, utilizing deep learning and genetic data analysis for personalized treatment strategies. 📊 Predictive Maintenance for Oil and Gas Industry: Working on a predictive maintenance system using machine learning algorithms to forecast equipment failures on offshore platforms, improving operational efficiency and reducing downtime.<br><br>🌱 Goals for 2025 Contribute to impactful open-source projects. Build innovative tools and applications. Collaborate with amazing developers around the world. I am deeply interested in advancing science toward exciting and highly practical domains for humanity. I have a lot of ideas, and one of my goals is to bring them to life.<br><br>📫 Contact Me Email: ahlam.ghasemiyan@gmail.com<br><br>✨ Fun Facts 🌞 Days: Coding, studying, and learning 🌙 Nights: More coding 🌟 Motto: "Towards the advancement of science into the world of imagination at speed X"<br><br>
 
-🌟 About Me
-💻 Developer: I specialize in Artificial Intelligence, Machine Learning, Deep Learning, and Data and Feature Analysis.
-📚 Lifelong Learner: Always discovering the latest technologies and trends.
-🌍 Open Source Advocate: I believe in the power of collaboration and community.
 
-🔥 Skills and Technologies
-Programming Languages: Python, C++, Java
-Frameworks: Django, TensorFlow
-Tools and Platforms: Git, Docker, Kubernetes
-Frontend Development: HTML, CSS, JavaScript
-Interests: AI, Machine Learning, Deep Learning, Data and Feature Analysis
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=QueenAhllam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=QueenAhllam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QueenAhllam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 Current Projects
+---
+[![](https://visitcount.itsvg.in/api?id=QueenAhllam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌐 AI-based Drug Resistance Prediction in Cancer: Developing a machine learning model to predict drug resistance mutations in cancer, utilizing deep learning and genetic data analysis for personalized treatment strategies.
-📊 Predictive Maintenance for Oil and Gas Industry: Working on a predictive maintenance system using machine learning algorithms to forecast equipment failures on offshore platforms, improving operational efficiency and reducing downtime.
-
-🌱 Goals for 2025
-Contribute to impactful open-source projects.
-Build innovative tools and applications.
-Collaborate with amazing developers around the world.
-I am deeply interested in advancing science toward exciting and highly practical domains for humanity.
-I have a lot of ideas, and one of my goals is to bring them to life.
-
-📫 Contact Me
-Email: ahlam.ghasemiyan@gmail.com
-
-✨ Fun Facts
-🌞 Days: Coding, studying, and learning
-🌙 Nights: More coding
-🌟 Motto: "Towards the advancement of science into the world of imagination at speed X"
-
--------------------------------------------------------------------------------------------------------
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
